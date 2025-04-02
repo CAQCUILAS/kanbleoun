@@ -1,1 +1,1 @@
-Bienvenu dans mon parcours d'apprentissage de code en JavaScript. Ce repository contient toutes mes applications effectuées durant le cours "Apprenez à programmer avec javaScript" sur OpenClassroom
+Ce projet vous permet de vous exercer à écrire le fon ou le goun correctement
